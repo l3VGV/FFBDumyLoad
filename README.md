@@ -9,3 +9,14 @@ time is in ms
 
 <img width="2244" height="1187" alt="image" src="https://github.com/user-attachments/assets/ff01d74d-db26-4758-9605-b54e8d12b8c6" />
 
+
+
+
+***
+
+this device can be used as simple ffb stick. it have 4 axis, 16 buttons
+
+
+uc pins used
+<img width="982" height="781" alt="image" src="https://github.com/user-attachments/assets/5fa0dc7a-358f-46dd-8c64-40f02c267481" />
+
