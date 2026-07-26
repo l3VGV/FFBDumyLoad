@@ -1,6 +1,9 @@
 # FFBDumyLoad
 stm32f103 blue pill based device to log PID FFB effects stream
 
+<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/0f3e6581-3887-4939-8ee2-6351a15670d8" />
+
+
 Those simple USB device register as usb ffb joystick and CDC virtual com port. When any PID FFB packet is recived, json like log entry is writen to CDC.
 
 No drivers or special software needed. Use any serial terminal, like putty.
