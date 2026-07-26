@@ -6,6 +6,8 @@ stm32f103 blue pill based device to log PID FFB effects stream
 
 Those simple USB device register as usb ffb joystick and CDC virtual com port. When any PID FFB packet is recived, json like log entry is writen to CDC.
 
+Only blue pill board can be used, no need to connect motors and potentiometers.
+
 No drivers or special software needed. Use any serial terminal, like putty.
 
 time is in ms
