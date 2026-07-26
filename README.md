@@ -19,7 +19,7 @@ time is in ms
 
 ***
 
-this device can be used as simple ffb stick. it have 4 axis, 16 buttons
+this device can be used as simple ffb stick. it have 4 axis, 16 buttons(4*4 matrix)
 
 
 uc pins used
