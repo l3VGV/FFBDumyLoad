@@ -21,7 +21,9 @@ time is in ms
 
 this device can be used as simple ffb stick. it have 4 axis, 16 buttons(4*4 matrix)
 
+!remove EN jumpers from l298 module!
 
 uc pins used
 <img width="982" height="781" alt="image" src="https://github.com/user-attachments/assets/5fa0dc7a-358f-46dd-8c64-40f02c267481" />
 
+<img width="2082" height="1024" alt="Untitled" src="https://github.com/user-attachments/assets/8c3d2d20-c47e-4a15-9708-5deefc90f5ea" />
