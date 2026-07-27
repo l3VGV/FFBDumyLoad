@@ -23,6 +23,8 @@ this device can be used as simple ffb stick. it have 4 axis, 16 buttons(4*4 matr
 
 !remove EN jumpers from l298 module!
 
+!always use USB isolator if power supply and motors are powered!
+
 uc pins used
 <img width="982" height="781" alt="image" src="https://github.com/user-attachments/assets/5fa0dc7a-358f-46dd-8c64-40f02c267481" />
 
